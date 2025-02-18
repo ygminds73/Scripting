@@ -1,1 +1,1 @@
-new script
+new s
