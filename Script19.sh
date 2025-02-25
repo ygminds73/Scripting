@@ -1,1 +1,2 @@
 new script
+"Hello world"
