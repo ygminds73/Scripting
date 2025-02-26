@@ -5,4 +5,4 @@ echo "I am working in REQ092348"
 echo "Adding new data"
 echo "I am DevOps-2"
 echo "Adding new line"
-echo "Vaishnavi is updating the script and pushing it to remote repo"
+
