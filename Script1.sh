@@ -3,3 +3,6 @@ echo "I am from Young minds"
 echo "We are from batch-27 and learning DevOps"
 echo "I am working in REQ092348"
 echo " i am atul wankhede"e
+echo "Adding new data"
+echo "I am DevOps-2"
+echo "Adding new line"
