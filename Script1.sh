@@ -4,3 +4,5 @@ echo "We are from batch-27 and learning DevOps"
 echo "this is my new branch in master branch"
 echo "my name is shrutika"
 echo "welcom to ygminds"
+echo "welcom to my home"
+
