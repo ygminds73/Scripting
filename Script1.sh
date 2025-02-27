@@ -5,4 +5,3 @@ echo "this is my new branch in master branch"
 echo "my name is shrutika"
 echo "welcom to ygminds"
 echo "welcom to my home"
-
