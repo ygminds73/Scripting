@@ -1,2 +1,2 @@
 new script
-old script
+ script
