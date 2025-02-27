@@ -6,3 +6,5 @@ echo "Adding new data"
 echo "I am DevOps-2"
 echo "Adding new line"
 echo "changes done by me"
+
+echo "Adding new line"
