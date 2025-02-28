@@ -5,3 +5,5 @@ readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
 echo "my name is: $sachinkale"
+my favourite hobbies is reading books.
+and learning learninng new something 
