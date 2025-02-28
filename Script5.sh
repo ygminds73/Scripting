@@ -5,3 +5,4 @@ readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
 echo "my name is: $sachinkale"
+i am live in A.Nagar
