@@ -5,3 +5,6 @@ read a
 echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
+heloooooooo
+this is my 2nd commit using linux
+
