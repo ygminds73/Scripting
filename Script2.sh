@@ -5,5 +5,6 @@ read a
 echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
+echo "ghhghghghgh"
+echo "whyyyyyyyyyyyyyyyyyy"
 echo "hieeeeeeeeeeeeeeeeeeee"
-
