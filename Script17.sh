@@ -5,3 +5,5 @@ Hello () {
 }
 # calling our function
 Hello
+echo "Pranavi"
+echo "Shelke"
