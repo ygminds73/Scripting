@@ -7,3 +7,5 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 read c
 echo "Hello value of a is $a and value of b is $b and value of c $c"
+read d
+echo "Hello value of a is $a and value of b is $b and value of c $c and value of d $d"

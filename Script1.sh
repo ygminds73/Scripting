@@ -5,3 +5,5 @@ echo "I am working in REQ092348"
 echo "I have learnt Github and Git"
 echo "I have also learnt Jenkins and Docker"
 echo "Happy Good friday"
+echo "We are learning GIT and GITHUB"
+
