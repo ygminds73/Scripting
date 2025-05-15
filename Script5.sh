@@ -4,4 +4,4 @@ NAME=Young-Minds
 readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
-echo "hi everyone"
+echo git a"hi everyone"
