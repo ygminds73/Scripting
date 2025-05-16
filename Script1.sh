@@ -6,4 +6,5 @@ echo "We are learning Git Branching"
 echo "We are learning Git Branching"
 echo "We are learning Git Branching"
 echo "We are learning Git Branching"
+echo "We are learning Git Branching"
 
