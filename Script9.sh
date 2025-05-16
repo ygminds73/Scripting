@@ -1,7 +1,7 @@
 #!/bin/bash
 #this is a script for just a if else
-a=10
-b=20
+a=20
+b=40
 if [ $a -gt $b ]
 then
 echo "a is greater than b"
