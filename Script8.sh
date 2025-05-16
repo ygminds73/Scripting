@@ -1,6 +1,6 @@
 #!/bin/bash
-a=10
-b=20
+a=5
+b=4
 
 val1=`expr $a + $b`
 echo "a + b : $val1"
