@@ -1,3 +1,5 @@
 echo "We are trying this practical from linux EC2"
 echo "I am from Young minds"
 echo "I am learing  git and  git hub"
+echo  " I am  learning  branching"
+echo "Creation of the new branch"
