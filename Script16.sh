@@ -5,3 +5,4 @@ do
  echo $a
  a=`expr $a + 1`
 done
+echo "disply output"
