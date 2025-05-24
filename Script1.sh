@@ -3,4 +3,4 @@ echo "I am from Young minds"
 echo "We are from batch-27 and learning DevOps"
 echo "We are learning Git and GitHub"
 echo "Batch-28"
-echo "Welcome to ygminds"
+
