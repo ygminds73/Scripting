@@ -3,4 +3,4 @@ echo "Value of a"
 read a
 echo "Value of b"
 read b
-echo "hello my name is nitin"
+echo echo "Hello value of a is $a and value of b is $b"
