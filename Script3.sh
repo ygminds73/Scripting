@@ -8,3 +8,5 @@ export JDK_HOME=/bin/jdk
 echo "my new JDK home is=$JDK_HOME"
 
 echo "this is the path of jdk/home"
+
+#25/05/2025
