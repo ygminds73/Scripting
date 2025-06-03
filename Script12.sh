@@ -32,3 +32,4 @@ then
 else
  echo "-n $a : string length is zero"
 fi
+#hi my name is rahul
