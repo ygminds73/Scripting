@@ -5,5 +5,6 @@ echo  " I am  learning  branching"
 echo "Creation of the new branch"
 echo "Changing in the new branch"
 echo "new Commit"
-echo  Doing the changes for the new commit in the git for git hub"
-
+echo  "Doing the changes for the new commit in the git for git hub"
+echo "Do revise all the commands on daily basis"
+echo "I am learning the git commands"
