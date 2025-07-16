@@ -8,3 +8,5 @@ echo "let us try to do somthing in git hub"
 echo " I am learning branching concept in this tutorials"
 echo " we are new in the devOps Area"
 echo "New versions"
+echo "i am learning new branching throuh lecture"
+
