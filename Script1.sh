@@ -5,3 +5,6 @@ echo "We are learning Git and GitHub"
 echo "How are you?"
 echo "we are trying to merge with master branch"
 echo "trying practical of git conflict"
+echo "we are practicing git"
+echo "thanks for co-operation"
+
