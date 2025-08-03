@@ -7,3 +7,5 @@ echo "I am learning branching in Git"
 echo "Testing git pull"
 echo "we are learning git/github"
 echo "we are learning git bash"
+
+echo "hello welcome to devops"
