@@ -5,3 +5,4 @@ do
 echo "Weekday $((i++)) : $day"
 done
 echo "this is github"
+echo "this is me"
