@@ -4,4 +4,3 @@ NAME=Young-Minds
 readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
-Echo "Hello my name Ashu"
