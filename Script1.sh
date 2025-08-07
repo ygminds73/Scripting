@@ -1,3 +1,5 @@
 echo "We are trying this practical from linux EC2"
 echo "I am from Young minds"
 echo "We are from batch-27 and learning DevOps"
+echo "This is a test script for our DevOps training"
+echo "We are learning how to create a script in Linux"
