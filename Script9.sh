@@ -10,3 +10,5 @@ if [ $a -lt $b ]
 then
 echo "a is less than b"
 fi
+echo "I am here for placement"
+echo "I can do anything for placement"
