@@ -9,4 +9,4 @@ else
 echo "a is smaller than b"
 fi
 echo i am commiting
-
+echo "commit"
