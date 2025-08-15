@@ -3,3 +3,8 @@ echo "I am from Young minds"
 echo "We are from batch-27 and learning DevOps"
 echo "This is a test script for our DevOps training"
 echo "YuMI has their first commit today"
+echo "We are from batch-27" 
+echo "I am learning Git/Github"
+echo "I am learning DevOps"
+echo "I am working on branch-1"
+
