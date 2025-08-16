@@ -8,3 +8,4 @@ number_two () {
 }
 # Calling function one.
 number_one
+echo "i am the best in the world"
