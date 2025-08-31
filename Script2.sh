@@ -3,3 +3,4 @@
 echo "Value of a"
 read a
 echo "Value of b"
+echo "anush"
