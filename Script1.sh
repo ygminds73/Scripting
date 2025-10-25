@@ -6,3 +6,5 @@ echo "I am learning in batch-29"
 echo "My name is Anil Yadav and i am learning DevOps and Middleware"
 echo "I am working in Birlasoft company"
 echo "vaibhav my friend who work in aws cloud project"
+
+vaibhav also worling with me
