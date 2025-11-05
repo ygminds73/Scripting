@@ -1,0 +1,1 @@
+echo "I am student and learning AWS"
