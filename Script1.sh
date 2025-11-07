@@ -4,3 +4,5 @@ echo "We are learning Branch"
 echo "I am learning Devops" 
 echo " to check conflict B2"
 echo " for B2"
+echo " for B2"
+
