@@ -4,4 +4,4 @@ for day in Mon Tue Wed Thu Fri
 do
 echo "Weekday $((i++)) : $day"
 done 
-echo "Weekday $((i++)) : $day change test"
+echo "Weekday $((i++)) : $day change test edit"
