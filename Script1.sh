@@ -6,6 +6,5 @@ echo "Adding new line"
 echo "I am from Devops and cloud team"
 echo "I am DevOps-2"
 echo "I am testing Changes"
-echo "recheck Changes"
-
+echo "recheck Changes and Conflict test 1"
 
