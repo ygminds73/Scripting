@@ -4,3 +4,4 @@ do
  echo "Looping ... number $i"
 done
 echo "Looping completed"
+echo "hi tejas "
