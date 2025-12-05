@@ -1,7 +1,5 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-25 and learning git/gihub"
 echo "We are learning Branching"
-echo "I am learning Devops"
-echo "Adding new line"
-echo "I am from Devops and cloud team"
-
+echo "I am learning git branching "
+echo "im just just learng the basic of git"
