@@ -1,6 +1,6 @@
 #!/bin/sh
 
-file="test.txt"
+file="/root/test.txt"
 
 if [ -f "$file" ]
 then
