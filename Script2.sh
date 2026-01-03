@@ -7,3 +7,4 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "darshan is my name"
 echo "how are you darshan"
+echo "whatsup re"
