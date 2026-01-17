@@ -4,4 +4,4 @@ Class=Young-minds
 Batch=25
 PROFESSION=AWS/DevSecOps/Azure DevOps
 echo "Class Name is $Class, Batch number $Batch, We are learning $PROFESSION"
-echo "We are trying this practical from linux EC2"
+echo "We are trying this practical from linux EC2"git
