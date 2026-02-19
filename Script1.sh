@@ -7,4 +7,3 @@ echo "I am from Devops and cloud team"
 echo "I am learning Devops"
 echo "I AM New here"git
 echo "this is my 2nd commit"
-echo "this is new branch"
