@@ -1,6 +1,6 @@
 echo "We are trying this practical from linux EC2"
 a=5
-b=5
+b=c+d+e
 echo "We are learning Branching"
 echo "I am learning Git"
 echo "I am learning Devops"
