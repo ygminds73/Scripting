@@ -6,4 +6,7 @@ echo "Adding new line"
 echo "I am from Devops and cloud team"
 echo "I am learning Devops"
 echo "I am from Testing Team"
-
+echo "line 1"
+echo "line 2 "
+echo "line  3"
+ 
