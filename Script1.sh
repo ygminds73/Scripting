@@ -4,4 +4,4 @@ echo "We are from batch-27"
 echo "I am learning Git/Github"
 echo "I have added new code"
 echo "I am from batch-30 and learning DevOps"
-echo "This is my second trial  commit iin nbatch 30 folder
+echo "This is my second trial  commit in nbatch 30 folder
