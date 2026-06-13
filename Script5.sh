@@ -4,3 +4,4 @@ NAME=Young-Minds
 readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
+echo "This is the end of the script"
