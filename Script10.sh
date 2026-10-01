@@ -8,4 +8,4 @@ echo "a is greater than b"
 else
 echo "a is smaller than b"
 fi
-
+echo "Hello team, currently we are learning branching in git and gitHub"
