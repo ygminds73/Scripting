@@ -1,5 +1,10 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-33 and learning git/gihub"
+INC0902324
 echo "We are learning Branching"
 echo "Proud of you Batch-33"
-
+echo "I am learning branching in git and github"
+echo "Proud of you batch-33"
+echo "Our new batch will start on 4th Oct"
+echo "I will be there in Hinjewadi office on sunday"
+echo "Today, I am learning merge conflict"
