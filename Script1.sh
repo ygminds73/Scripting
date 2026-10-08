@@ -4,4 +4,5 @@ echo "I am learning branching in git and github"
 echo "Proud of you batch-33"
 echo "Our new batch will start on 4th Oct"
 echo "I will be there in Hinjewadi office on sunday"
-
+echo "i am in Batch-33"
+echo "i am learning devops course"
