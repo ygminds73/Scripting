@@ -8,4 +8,4 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "Hello value of b is $b and value of a is $a"
 echo "newlines"
-hhhhhhhh
+echo "newchnage"
