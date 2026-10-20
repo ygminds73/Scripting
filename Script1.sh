@@ -6,3 +6,4 @@ echo "now learning git"
 echo "hello i am practing linux"
 
 new chnage
+changes
