@@ -1,9 +1,9 @@
 #!/bin/bash
 #This script is to read input from the user/console
 # variable script
-echo "Value of a"
-read a
-echo "Value of b"
-read b
-echo "Hello value of a is $a and value of b is $b"
-echo "Hello value of b is $b and value of a is $a"
+echo "Value of d"
+read d
+echo "Value of e"
+read e
+echo "Hello value of d is $d and value of e is $e"
+echo "Hello value of e is $e and value of d is $d"
