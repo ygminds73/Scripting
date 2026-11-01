@@ -5,3 +5,4 @@ Batch=25
 PROFESSION=AWS/DevSecOps/Azure DevOps
 echo "Class Name is $Class, Batch number $Batch, We are learning $PROFESSION"
 this is doing for practice 
+echo "this is for practice"
