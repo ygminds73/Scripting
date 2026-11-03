@@ -11,3 +11,5 @@ echo "Hello value of a is $a and value of b is $b"
 echo "Input from user is $a and $b"
 echo "Input from user is $b and $a"
 echo "Input from user is $a and $b"
+echo "Input from user is $b and $a"
+
