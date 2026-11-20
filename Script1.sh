@@ -1,3 +1,6 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-33 and learning git/gihub"
 echo "I am learning branching in git and github"
+echo "I am practicing git "
+echo "this is a new branch creation exercise"
+echo "pull request demo"
