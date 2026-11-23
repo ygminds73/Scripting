@@ -5,3 +5,4 @@ readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
 echo " hello today i am learning in git log command"
+echo "today i am learning git command"
