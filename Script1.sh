@@ -1,6 +1,4 @@
 echo "We are trying this practical from linux EC2"
-echo "I am from Young minds"
-echo "We are from batch-27 and learning DevOps"
-echo "We are learning AWS, Azure DevOps and DevSecOps"
-echo "I am learning in batch-29"
+echo "We are from batch-33 and learning git/gihub"
+echo "I am learning branching in git and github"
 echo "my name is ashish"
